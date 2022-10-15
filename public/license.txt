@@ -1,0 +1,11 @@
+Model Information:
+* title:	Wedding Ring 3D Scan
+* source:	https://sketchfab.com/3d-models/wedding-ring-3d-scan-e23e94396aa7461b9ea4d8697514bd7a
+* author:	Laser Design (https://sketchfab.com/Laserdesign)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Wedding Ring 3D Scan" (https://sketchfab.com/3d-models/wedding-ring-3d-scan-e23e94396aa7461b9ea4d8697514bd7a) by Laser Design (https://sketchfab.com/Laserdesign) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)

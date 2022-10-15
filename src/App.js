@@ -1,15 +1,15 @@
 import './App.css';
 import { GlobalStyle } from './styles/GlobalStyle';
-import Quote from './sections/TagLine';
-import PhoneModel from "./sections/RingModel"
+import TagLine from './sections/TagLine';
+import RingModel from "./sections/RingModel"
 import NavBar from './sections/Header';
 function App() {
   return (
     <>
       <NavBar />
-      <PhoneModel />
+      <RingModel />
       <GlobalStyle />
-      <Quote />
+      <TagLine />
     </>
   );
 }

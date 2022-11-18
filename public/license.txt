@@ -1,11 +1,11 @@
 Model Information:
-* title:	Wedding Ring 3D Scan
-* source:	https://sketchfab.com/3d-models/wedding-ring-3d-scan-e23e94396aa7461b9ea4d8697514bd7a
-* author:	Laser Design (https://sketchfab.com/Laserdesign)
+* title:	The Discobolus of Myron
+* source:	https://sketchfab.com/3d-models/the-discobolus-of-myron-492ad236e4cb4322875d546d3edd6524
+* author:	re1monsen (https://sketchfab.com/re1monsen)
 
 Model License:
-* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
-* requirements:	Author must be credited. No commercial use.
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
 
 If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
-This work is based on "Wedding Ring 3D Scan" (https://sketchfab.com/3d-models/wedding-ring-3d-scan-e23e94396aa7461b9ea4d8697514bd7a) by Laser Design (https://sketchfab.com/Laserdesign) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+This work is based on "The Discobolus of Myron" (https://sketchfab.com/3d-models/the-discobolus-of-myron-492ad236e4cb4322875d546d3edd6524) by re1monsen (https://sketchfab.com/re1monsen) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,3 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=BioRhyme:wght@700;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&display=swap');
 
 .nav-brand{
     font-family: 'BioRhyme', serif;
@@ -6,10 +11,6 @@
     animation-name: blink;
     animation-timing-function: ease-in-out;
     animation-duration: 1s;
-    background-image:linear-gradient(-45deg,var(--gradient));
-    background-clip:text;/*this usually doesnt work in chrome so we need to use webkit*/ 
-    -webkit-background-clip:text;
-    -webkit-text-fill-color:transparent;
 }
 
 .nav-link{
@@ -17,16 +18,26 @@
     text-decoration: none;
     margin-right: 1rem;
     font-weight: 500;
-    color: aliceblue !important;
-
+    color: #fff !important;
+}
+.nav-link:hover{
+    font-weight: 900;
+    color: rgb(61, 59, 59) !important;
 }
 .nav{
     justify-content: space-between !important;
 }
-.navbar{
-   background-color: black !important;
-   padding: 1rem 1rem !important;
+
+.Nav{
+        padding: 2.5% 5% !important; 
+        color:#fff !important;
 }
+
+.toggleIcon{
+    color:rgb(35, 34, 34) !important;
+    background: slategray;
+}
+
 @keyframes blink{
     0%{
        opacity: 0;

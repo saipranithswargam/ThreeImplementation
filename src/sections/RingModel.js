@@ -2,11 +2,11 @@ import React from "react";
 import styled , {keyframes} from "styled-components";
 import { Canvas } from "@react-three/fiber";
 import { OrbitControls, Environment } from "@react-three/drei";
-import Model from "../assets/3D-Model/Scene.js";
+import Model from "../assets/model2/Scene"
 import { Suspense } from "react";
 const Container = styled.div`
-    width: 100vw;
-    height: 60vh;
+    width: 90vw;
+    height: 90vh;
     background-color: black;
     margin-top: 2rem;
 `;
@@ -33,8 +33,8 @@ function RingModel() {
         <div>
             <Container>
                 <Canvas>
-                    <ambientLight intensity={2.5} />
-                    <directionalLight intensity={1.4} />
+                    <ambientLight intensity={1} />
+                    <directionalLight intensity={1} />
                     <Suspense fallback={null}>
                         <Model scale={[0.2, 0.2, 0.2]} />
                     </Suspense>
@@ -42,7 +42,7 @@ function RingModel() {
                     <OrbitControls enableZoom={false} />
                 </Canvas>
             </Container>
-            <Tag>Drag With mouse to rotate</Tag>
+
         </div>
     );
 }
